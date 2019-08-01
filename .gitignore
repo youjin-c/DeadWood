@@ -9,6 +9,8 @@
 [Tt]emp/
 [Uu]nityGenerated/
 Assets/Animation
+Assets/FurShader
+Assets/TangyTextures Free Materials
 DeadwoodWebGl
 # file on crash reports
 sysinfo.txt
@@ -19,6 +21,9 @@ sysinfo.txt
 # VS/MD solution and project files
 ###
 [Ee]xportedObj/
+*.meta
+*.mat
+*.png
 *.booproj
 *.csproj
 *.sln
